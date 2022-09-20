@@ -8,17 +8,17 @@ const dummy_expenses = [
     id:'e1',
     title: "Bill",
     amount: 12,
-    date: new Date(2021, 3, 23),
+    date: new Date(2020, 3, 23),
   },
   {
     id:'e2',
     title: "TV",
     amount: 50,
-    date: new Date(2021, 3, 24),
+    date: new Date(2022, 3, 24),
   },
   
   {
-    id:'e3', title: "Mutton", amount: 100, date: new Date(2021, 3, 25) },
+    id:'e3', title: "Mutton", amount: 100, date: new Date(2019, 3, 25) },
   {
     id:'e4',
     title: "wooden box",
