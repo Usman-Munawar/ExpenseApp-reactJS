@@ -25,6 +25,7 @@ const dummy_expenses = [
     amount: 150,
     date: new Date(2021, 3, 26),
   },
+
 ];
 
 function App() {
